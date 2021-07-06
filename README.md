@@ -8,7 +8,7 @@ implement a competitive algorithm for the Critical Mass game.
 ## Execution: 
 * Execute the output file(Mac: a.out, Windows: a.exe)
 
-* ### Algorithm_A
+### Algorithm_A
 
 *  The algorithm_A.cpp file is a strong player
 
