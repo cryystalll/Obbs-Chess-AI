@@ -7,14 +7,8 @@ implement a competitive algorithm for the Critical Mass game.
 
 ## Execution: 
 * Execute the output file(Mac: a.out, Windows: a.exe)
-
-### Main program
-
-![Variable Declaration](/img/chess.png)
-
-![Player action](/images/001.png)
-
-### Algorithm_A
+* 
+* ### Algorithm_A
 
 *  The algorithm_A.cpp file is a strong player
 
@@ -25,5 +19,9 @@ implement a competitive algorithm for the Critical Mass game.
 ### About the game rule
 
 *  Please google
+
+
+(/img/chess.png)
+
 
 
