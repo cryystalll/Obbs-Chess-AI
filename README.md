@@ -1,7 +1,7 @@
 # Obbs-Chess-AI
 
 
-# A chain reaction obbs game using C++ language. 
+## A chain reaction obbs game using C++ language. 
 
 implement a competitive algorithm for the Critical Mass game.
 
