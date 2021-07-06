@@ -10,7 +10,7 @@ implement a competitive algorithm for the Critical Mass game.
 
 ### Main program
 
-![Variable Declaration](/images/chess.png)
+![Variable Declaration](/img/chess.png)
 
 ![Player action](/images/001.png)
 
